@@ -5,7 +5,7 @@
 /* NAVIGATION */
 .npa-nav { display: flex; justify-content: center; gap: 8px; margin-bottom: 20px; }
 .npa-nav a { font-size: 9.5px; font-family: 'Source Sans 3', serif; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; text-decoration: none; color: var(--contrastLight); background: var(--neutralDarker2); border: 1px solid var(--neutralDarker4); padding: 4px 12px; white-space: nowrap; transition: 200ms; }
-.npa-nav a:hover { background: var(--accentClrDarker3); color: var(--white); border-color: var(--accentClrDarker3); }
+.npa-nav a:hover { background: var(--accentClrDarker4); color: var(--white); border-color: var(--accentClrDarker4); }
 
 /* GRILLE PRINCIPALE */
 .npa-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
@@ -71,7 +71,7 @@
 #npa-s4:checked ~ .npa-staff-info #npa-p4,
 #npa-s5:checked ~ .npa-staff-info #npa-p5 { display: block; }
 .npa-staff-name { font-family: 'Playfair Display', serif; font-size: 14px; font-style: italic; font-weight: 600; color: var(--textColor); }
-.npa-staff-role { font-size: 9px; font-family: 'Source Sans 3', serif; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--accentClrDarker3); }
+.npa-staff-role { font-size: 9px; font-family: 'Source Sans 3', serif; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--accentClrDarker4); }
 .npa-staff-links { font-size: 12px; font-family: 'Source Sans 3', serif; }
 .npa-staff-links a { color: var(--link); }
 .npa-thismonth { font-size: 12px; text-align: justify; line-height: 16px; height: 131px; overflow: auto; color: var(--textColor); font-family: 'Source Sans 3', serif; }
