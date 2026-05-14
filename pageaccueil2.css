@@ -36,7 +36,7 @@
 .npa-center { display: flex; flex-direction: column; gap: 8px; text-align: center; }
 .npa-title-main { font-family: 'Playfair Display', serif; font-size: 22px; font-weight: 400; letter-spacing: -1px; text-transform: lowercase; color: var(--textColor); margin: 0; }
 .npa-title-main em { font-style: italic; color: var(--accentClr); }
-.npa-subtitle { font-size: 9.5px; font-family: 'Source Sans 3', serif; font-weight: 400; text-transform: uppercase; color: var(--contrastLight); margin-bottom: 5px; }
+.npa-subtitle { font-size: 9.5px; font-family: 'Source Sans 3', serif; font-weight: 400; text-transform: uppercase; color: var(--contrast); margin-bottom: 5px; }
 .npa-spotlight-label { font-family: 'Playfair Display', serif; font-size: 13px; font-weight: 600; color: var(--textColor); }
 .npa-spotlight-label em { color: var(--contrastLight); font-style: italic;}
 .npa-spotlight-sub { font-size: 9px; font-family: 'Source Sans 3', serif; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; text-align: center; }
