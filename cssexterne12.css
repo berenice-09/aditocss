@@ -221,7 +221,7 @@ a.profile-icon, a.champsbis { width: 40px; }
 .champsbis { width: 30px; margin-top: 10px; }
 .post_profile { padding: 10px; border-right: 1px solid var(--neutralDark); background: var(--neutralDark); }
 .post_profile img { max-width: 188px; position: relative; z-index: 9; }
-.post_pseudo  { width: 210px; background: var(--neutral); text-transform: lowercase;font-style:italic; text-align: center; font-size: 14px; line-height: 13px; padding: 5px; font-weight: 500; letter-spacing: 1px; font-family: "Old Standard TT"; border: 1px solid var(--neutralDarker3); margin-bottom: -14px; }
+.post_pseudo  { width: 210px; background: var(--neutral); text-transform: lowercase;font-style:italic; text-align: center; font-size: 16px; line-height: 13px; padding: 5px; font-weight: 500; letter-spacing: 0.5px; font-family: "Old Standard TT"; border: 1px solid var(--neutralDarker3); margin-bottom: -14px; }
 .pseudo_mp    { font-family: 'Playfair Display', serif;
     font-size: 13px;
     font-style: italic;
