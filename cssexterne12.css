@@ -395,6 +395,9 @@ blockquote cite a { text-decoration: none !important; }
     overflow: hidden;
     border: 1px solid var(--neutralDarker4); 
     padding: 2px;
+    flex: none;
+    width: 145px;
+    height: 220px;
 }
 
 .message_profil_avatar img {
