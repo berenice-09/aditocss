@@ -443,7 +443,7 @@ blockquote cite a { text-decoration: none !important; }
 
 .message_content {
     padding: 12px 18px;
-    font-size: 11px;
+    font-size: 12px;
     line-height: 1.7;
     text-align: justify;
 }
@@ -488,7 +488,7 @@ blockquote cite a { text-decoration: none !important; }
 }
 .pm_history_content { 
     padding: 8px 12px; 
-    font-size: 11px; 
+    font-size: 12px; 
     line-height: 1.7; 
     text-align: justify; 
 }
